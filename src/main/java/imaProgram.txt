@@ -1,3 +1,4 @@
 A bug is fixed!
 Dev change!
 master change 1!
+New dev change!
